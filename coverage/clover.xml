@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1659559389358" clover="3.2.0">
+  <project timestamp="1659559389359" name="All files">
+    <metrics statements="29" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="7" elements="43" coveredelements="29" complexity="0" loc="29" ncloc="29" packages="1" files="6" classes="6"/>
+    <file name="func.js" path="C:\Users\sppth\Desktop\testbed2\func.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+    </file>
+    <file name="funcapi.js" path="C:\Users\sppth\Desktop\testbed2\funcapi.js">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="funcfalsy.js" path="C:\Users\sppth\Desktop\testbed2\funcfalsy.js">
+      <metrics statements="5" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="funcnot.js" path="C:\Users\sppth\Desktop\testbed2\funcnot.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="funcnull.js" path="C:\Users\sppth\Desktop\testbed2\funcnull.js">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="funcstring.js" path="C:\Users\sppth\Desktop\testbed2\funcstring.js">
+      <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
